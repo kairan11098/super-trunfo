@@ -96,7 +96,7 @@ int main(){
    printf(" Super Poder: Carta 1 venceu: (%d)\n População: Carta 1 venceu: (%d)\n Área: Carta 1 venceu: (%d)\n", SuperPoder > SuperPoder2, Populacao > Populacao2, Area > Area2);
    printf(" PIB: Carta 1 venceu: (%d)\n Pontos Turísticos: Carta 1 venceu: (%d)\n", PIB > PIB2, Turisticos > Turisticos2);
    printf(" Densidade populacional: Carta 1 venceu: (%d)\n PIB Per Capita: Carta 1 venceu: (%d)\n", Densidade < Densidade2, perCapita > perCapita2);
-
+   
    return 0;
 
 }
